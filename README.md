@@ -10,6 +10,5 @@ A normal chrome browser is not enough, the program required a chrome driver to r
 [You can download the required Chrome Driver here](https://chromedriver.storage.googleapis.com/index.html?path=81.0.4044.69/)
 
 ## Instruction
-After you installed the Java devepolment kit, and put the chrome driver file within the folder contain Check Grade.jar, you are good to go!
-\newline
+After you installed the Java devepolment kit, and put the chrome driver file within the folder contain Check Grade.jar, you are good to go!<br />
 ![Test Image 4](https://github.com/flydrf/YU-GradeChecker/blob/master/src/example.png)
