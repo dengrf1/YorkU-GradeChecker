@@ -1,5 +1,5 @@
 # YU-GradeChecker
-A program help you check your grade on YU site
+A program help you check your grade on YU site, basically this program silently creates a new tab in chrome every 30 mins then login to Yorku grade site. If the grade of the course you want to check is posted, a window will pop up notify you and the program will stop running, if your grade column is empty, the program does nothing but sits there waiting for another cycle.
 
 ## Running Environment
 Currently this progrom only support Window10 with Java devepolment kit installed.<br/>
